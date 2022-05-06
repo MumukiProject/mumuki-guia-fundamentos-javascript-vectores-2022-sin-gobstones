@@ -6,13 +6,11 @@ Y no sólo eso, sino que además, el orden es importante. Por ejemplo, no es lo 
 
 > Probá en orden en la consola las siguientes consultas: 
 > 
-> * `listasIguales(["hola", "mundo"], ["mundo", "hola"])`
-> * `listasIguales(["hola", "mundo"], ["hola", "mundo"])`
-> * `listasIguales(["hola", "mundo"], ["hola", "todo", "el", "mundo"])`
-> * `listasIguales(["hola"], ["hola", "mundo"])`
-> * `["hola", "mundo"] === ["mundo", "hola"]`
-> * `personas`
-> * `["mara", "julian"] === personas`
-> * `personas === personas`
+``` javascript
+ム ["hola", "mundo"] == ["mundo", "hola"]
+ム ["hola", "mundo"] == ["hola", "todo", "el", "mundo"]
+ム ["hola"] == ["hola", "mundo"]
+ム ["hola", "mundo"] == ["hola", "mundo"]
+```
 
 > ¿Qué conclusiones podés sacar? :thought_balloon:

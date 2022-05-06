@@ -1,0 +1,1 @@
+Para que dos listas sean iguales no alcanza con tener los mismos elementos, sino que es necesario que estén en exactamente el mismo orden. :relieved:
