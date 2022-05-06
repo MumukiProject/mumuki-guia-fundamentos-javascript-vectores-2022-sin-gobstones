@@ -4,8 +4,4 @@ Y no sólo eso, sino que además pueden contener cualquier cantidad de elementos
 
 ¿Podremos entonces tener listas vacías, es decir, que no tengan elementos? ¡Por supuesto!
 
-```javascript
-let unaListaVacia = []
-```
-
-> Probá escribir en la consola `unaListaVacia`
+> Fijate en la consola escribiendo `unaListaVacia`.
