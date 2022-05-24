@@ -2,9 +2,18 @@ Pero, pero, ¿sólo podemos crear listas de strings? ¿Y si quiero, por ejemplo,
 
 > Probá en la consola las siguientes consultas y mirá qué elementos tiene cada lista:
 >
-``` javascript
+>``` javascript
 ム numerosDeLoteria
+```
+>
+> ``` javascript
 ム salioCara
+```
+>
+> ``` javascript
 ム tiradasDelDado
+```
+>
+> ``` javascript
 ム listaDeListas
 ```
