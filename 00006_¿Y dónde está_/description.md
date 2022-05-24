@@ -16,5 +16,5 @@ Lo curioso de esta primitiva es que pareciera devolver siempre uno menos de lo e
 > Probá lo siguiente:
 >
 > ```javascript
-> diasLaborales.indexOf("osvaldo")
+> ム diasLaborales.indexOf("osvaldo")
 > ```
