@@ -4,9 +4,18 @@ Empecemos por lo fácil: saber cuántos elementos hay en la lista. Esto lo podem
 
 > Realizá en orden las siguientes consultas en la consola: 
 > 
-``` javascript
+>``` javascript
 ム [].length
+```
+>
+>``` javascript
 ム [4, 3].length
+```
+>
+>``` javascript
 ム [[1,2],[8],[14, 87]].length
+```
+>
+>``` javascript
 ム numerosDeLoteria.length
 ```
