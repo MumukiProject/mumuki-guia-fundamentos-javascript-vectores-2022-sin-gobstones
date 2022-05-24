@@ -9,10 +9,18 @@ Como ves, para representar a un conjunto de strings, colocamos todos esos string
 
 > Probá en orden en la consola las siguientes consultas:
 >
-> ```javascript
+>``` javascript
 ム seriesFavoritasDeAna
+```
+>
+>``` javascript
 ム seriesFavoritasDeHector
+```
+>
+>``` javascript
 ム ["hola","mundo!"]
+```
+>
+>``` javascript
 ム ["hola","hola"]
 ```
-

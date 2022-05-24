@@ -6,10 +6,20 @@ Y no sólo eso, sino que además, el orden es importante. Por ejemplo, no es lo 
 
 > Probá en orden en la consola las siguientes consultas: 
 > 
-``` javascript
+>
+> ``` javascript
 ム listasIguales(["hola", "mundo"], ["mundo", "hola"])
+```
+>
+> ``` javascript
 ム listasIguales(["hola", "mundo"], ["hola", "todo", "el", "mundo"])
+```
+>
+> ``` javascript
 ム listasIguales(["hola"], ["hola", "mundo"])
+```
+>
+> ``` javascript
 ム listasIguales(["hola", "mundo"], ["hola", "mundo"])
 ```
 
